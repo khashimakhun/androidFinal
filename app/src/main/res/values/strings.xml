@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Football Apps</string>
+
+    <!-- String di halaman event detail -->
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defender">Defenders</string>
+    <string name="midfielder">Midfielders</string>
+    <string name="forward">Forwards</string>
+
+    <!-- String di halaman player detail-->
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="height_m">Height (m)</string>
+
+    <!-- String di menu -->
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favorites</string>
+    <string name="gambar">Gambar</string>
+
+    <!-- String untuk spinner liga -->
+    <array name="league_name">
+        <item>English Premier League</item>
+        <item>Spanish La Liga</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Dutch Eredivisie</item>
+        <item>Chinese Super League</item>
+        <item>American Major League Soccer</item>
+        <item>Portuguese Primeira Liga</item>
+        <item>Brazilian Brasileirao</item>
+    </array>
+
+    <string-array name="league_id">
+        <item>4328</item>
+        <item>4335</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4334</item>
+        <item>4337</item>
+        <item>4359</item>
+        <item>4346</item>
+        <item>4344</item>
+        <item>4351</item>
+    </string-array>
+
+</resources>

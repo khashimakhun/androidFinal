@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner_event_next" type="id"/>
+    <item name="spinner_event_last" type="id"/>
+    <item name="list_event_next" type="id"/>
+    <item name="list_event_last" type="id"/>
+</resources>
